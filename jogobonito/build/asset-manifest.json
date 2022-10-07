@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f66a4bb.css",
+    "main.js": "/static/js/main.12131db5.js",
+    "static/media/logo.png": "/static/media/logo.5ebe628d1260d7531acb.png",
+    "static/media/jogobonitologo.jpg": "/static/media/jogobonitologo.1b44170205d71d880ffb.jpg",
+    "index.html": "/index.html",
+    "main.8f66a4bb.css.map": "/static/css/main.8f66a4bb.css.map",
+    "main.12131db5.js.map": "/static/js/main.12131db5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f66a4bb.css",
+    "static/js/main.12131db5.js"
+  ]
+}
