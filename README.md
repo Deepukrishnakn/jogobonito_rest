@@ -1,5 +1,5 @@
 
-# ecommerce-django
+# Turf booking ecommerce-django
 This is a sample application that demonstrates an e-commerce turf booking website using the React.js The application loads turf from a PostgreSQL database and displays them. Users can select to display turf in a single category. Users can register and login to website and, click on any turf to get more information including pricing. Users can select slot and add them to their complete their payment using Razor-pay or cod. They can view their order status. In admin side, admins can manage users,Vendor and In Vendor side, vendor can manage turf,sloat and CRUD etc...
 
 
@@ -15,7 +15,7 @@ To get started you can simply clone this ecommerce-django repository and install
 
 Clone the ecommerce-demo repository using git:
 ```python
-git clone https://github.com/Deepukrishnakn/bootit.com.git
+git clone https://github.com/Deepukrishnakn/jogobonito_rest.git
 cd ecommerce-django
 ```
 Create a virtual environment to install dependencies in and activate it:
@@ -41,10 +41,12 @@ And navigate to ```http://127.0.0.1:8000/```
 ## Tech Stack
   Python
   
-  Django
+  Django restframework
   
   PostgreSQL
   
   Bootstrap
+  
+  MUI
   
   Javascript
